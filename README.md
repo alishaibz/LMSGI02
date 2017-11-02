@@ -4,35 +4,23 @@
 
 ### Autora: Alicia Victoria López González
 
-Per a la realitzación de la segona tasca **_Llenguatge de Marques i Sistemes de Gestió de la Informació_** consta de cinc activitats, la realització de les quals s'explica a continuació.
+Per a la realitzación de la segona tasca de l'assignatura **_Llenguatge de Marques i Sistemes de Gestió de la Informació_** s'ha portat a terme el següent procés: 
 
 
-#### Activitat A
+1. Elecció del tema.
 
-1. Creació de document RTF:
-    * Obrir bloc de notes.
-    * Copiar el codi RTF d'exemple dels apunts de l'assignatura:
-      >{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
-\viewkind4\uc1\pard\sa200\sl276\slmult1\lang10\f0\fs22 soy \i cursiva\i0\par}
-    * Desar el document amb extensió .rtf i tancar-ho.
-    * Obrir el document RTF amb el Word.
-    * Comprovar que el text desat es veu amb el format corresponent amb el codi RTF que conté el document.
+2. Cerca i elecció de les imatges a emprar.
+   
+3. Redimensionament (a escala més petita) de les imatges amb el software GIMP:
 
-2. Creació de document XML:
-    * Obrir bloc de notes.
-    * Copiar el codi XML d'exemple 1 del tutorial XML de la web [w3schools](www.w3schools.com/xml/).
-    * Desar el document amb extensió .xml i tancar-ho.
-    * Obrir el document XML amb el Word.
-    * Comprovar que el text desat es veu amb el format corresponent amb el codi XML que conté el document.
-
-3. Creació de document HTML:
-    * Obrir bloc de notes.
+    * Obrir la imatge amb GIMP.
+    * Anar a la opció _Imagen > Escalar la imagen_.
+    * La imatge "barco_logo" s'ha redimensionat de 200x157 a 150x118.
+    * La imatge "barco_terraza" s'ha redimensionat de 960x720 a 450x338.
+    * La imatge "paella" s'ha redimensionat de 533x208 a 200x78.
+  
     * Copiar el codi HTML d'exemple 1 del tutorial HTML de la web [w3schools](www.w3schools.com/html/).
-    * Desar el document amb extensió .html i tancar-ho.
-    * Obrir el document HTML amb el navegador Google Chrome.
-    * Comprovar que el text desat es veu amb el format corresponent amb el codi HTML que conté el document.
-
-#### Activitat B
+    
 
 1. Registre a [Github](https://github.com).
 2. Lectura i seguiment de la [guia d'inici de Github](https://guides.github.com/activities/hello-world/).
