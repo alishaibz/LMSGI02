@@ -36,7 +36,7 @@ Per a la realització de la segona tasca de l'assignatura **_Llenguatge de Marqu
     
 10. Pujada dels arxius corresponents a la tasca (carpeta "img" i fitxer .html) al repositori **LMSGI02**.
 
-11. Obtenció de [URL de Rawgit de la meva web]().
+11. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/LMSGI02/master/LMSGI02.html).
 
 12. Edició del fitxer README.me del repositori **LMSGI02**.
 
