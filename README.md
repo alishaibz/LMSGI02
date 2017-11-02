@@ -24,7 +24,7 @@ Per a la realització de la segona tasca de l'assignatura **_Llenguatge de Marqu
     * La imatge "barco_terraza" ha passat d'un tamany de 56,5kB a 53,3kB.
     * La imatge "paella" ha passat d'un tamany de 29,7kB a 9,29kB.
 
-5. Consulta del tutorial HTML de la web [w3schools](www.w3schools.com/html/).
+5. Consulta del tutorial HTML de la web [w3schools](https://www.w3schools.com/html/default.asp).
 
 6. Creació d'un nou arxiu de bloc de notes amb codificació UTF8 i extensió .html.
 
