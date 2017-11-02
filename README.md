@@ -4,7 +4,7 @@
 
 ### Autora: Alicia Victoria López González
 
-Aquesta primera tasca de l'assignatura **_Llenguatge de Marques i Sistemes de Gestió de la Informació_** consta de cinc activitats, la realització de les quals s'explica a continuació.
+Per a la realitzación de la segona tasca **_Llenguatge de Marques i Sistemes de Gestió de la Informació_** consta de cinc activitats, la realització de les quals s'explica a continuació.
 
 
 #### Activitat A
